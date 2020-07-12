@@ -1,6 +1,5 @@
 //Terra Nations
 //By  TCB Softworks. http://tcbsoftworks.com
-//Development started 11/2/2017
 
 //Import Libraries
 var express = require('express');
