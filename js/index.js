@@ -12,6 +12,6 @@ io.on('connection', function(socket){
   console.log('Someone connected to us');
 });
 
-server.listen(1337, function(){
-  console.log('listening on *:1337  ');
+server.listen(3001, function(){
+  console.log('listening on *:3001  ');
 });
